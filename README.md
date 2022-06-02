@@ -40,6 +40,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
+![meteo](https://user-images.githubusercontent.com/86850698/171731043-4c3c3794-7ce0-4d35-a375-35bb2743c842.PNG)
+![weater 2](https://user-images.githubusercontent.com/86850698/171731123-4d6b6ba0-4f2c-45d7-b45d-10dd756867c7.PNG)
+![weater](https://user-images.githubusercontent.com/86850698/171731223-1678cf2a-2eb9-4578-bfaa-a044b3002001.PNG)
+![weater3](https://user-images.githubusercontent.com/86850698/171731297-1ee1e929-ec97-449b-b991-99f89d363a9f.PNG)
+![weater4](https://user-images.githubusercontent.com/86850698/171731344-900abc93-87e4-479f-baac-693fda783e12.PNG)
+![weater5](https://user-images.githubusercontent.com/86850698/171731354-3285c8ad-ee65-4495-9747-ee1068234643.PNG)
+
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -68,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
